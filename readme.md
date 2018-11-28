@@ -1,11 +1,18 @@
 === Easy Htaccess Editor ===
 Contributors: Toran Bhattarai
+
 Author URI:
+
 Tags: htaccess,file,editor,backup,admin
+
 Version: 1.0
+
 Requires at least: 4.9
+
 Tested up to: 4.9.8
+
 Stable tag: 1.0
+
 License: GPLv2 or later
 
 Edits wordpress htaccess file from admin panel
