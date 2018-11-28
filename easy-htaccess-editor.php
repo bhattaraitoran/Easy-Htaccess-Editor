@@ -1,13 +1,13 @@
 <?php
 /*
 Plugin Name: Easy Htaccess Editor
-Plugin URI: 
+Plugin URI: https://github.com/bhattaraitoran/Easy-Htaccess-Editor
 Description: Edits wordpress htaccess file from admin panel
 Version: 1.0
 Text Domain: easy-htaccess-editor
 Domain Path: /lang/
 Author: Toran Bhattarai
-Author URI:
+Author URI: https://github.com/bhattaraitoran/
 License: GPLv2 or later
 */
 
