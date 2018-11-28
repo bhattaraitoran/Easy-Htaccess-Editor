@@ -1,4 +1,5 @@
 === Easy Htaccess Editor ===
+
 Contributors: Toran Bhattarai
 
 Author URI:
