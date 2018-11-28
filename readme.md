@@ -1,5 +1,5 @@
 === Easy Htaccess Editor ===
-Contributors: Bellathemes
+Contributors: Toran Bhattarai
 Author URI:
 Tags: htaccess,file,editor,backup,admin
 Version: 1.0
